@@ -10,7 +10,7 @@ Además, la parte superior del botón está a punto de indicar el grosor actual 
 ### Página de entrada
 Una página sencilla que permite al usuario crear una nueva pizarra privada o entrar en una pizarra privada ya existente mediante un código de sala.
 
-## ¿Cómo funciona?
+## ¿Cómo empieza?
 Entra la carpeta servidor y en el terminal:
 ```sh
 npm start
