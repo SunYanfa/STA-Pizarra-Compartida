@@ -1,0 +1,54 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+
+/* ---------------------------------------------------------- */
+/* ----------------- Parte Izquierda ------------------------ */
+/* ---------------------------------------------------------- */
+
+
+canvas {
+  flex: 1;
+  /* height: 500px; */
+  /* width: 90%; */
+  border: 3px solid #00668c;
+  background-color: #fff;
+  margin: 20px auto;
+}
+
+#canvasBox {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-width: 100%;
+}
+
+
+#mainBox {
+  text-align: center;
+}
+
+span {
+  font-weight: 700;
+}
+
+/* ---------------------------------------------------------- */
+/* ----------------- Parte Izquierda ------------------------ */
+/* ---------------------------------------------------------- */
+
+#toolBox{
+  display: flex;
+  justify-content: center;
+}
+
+#colorBox {
+  display: flex;
+}
+
+label {
+  line-height: 40px;
+  margin-left: 10px;
+}
